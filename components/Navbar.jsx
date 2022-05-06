@@ -20,7 +20,7 @@ const Navbar = () => {
         onClick={() => setShowCart(true)}
       >
         <MdOutlineShoppingBag />
-        <span className="cart-item-qty">{totalQuantities}</span>
+        <span className="cart-item-quantity">{totalQuantities}</span>
       </button>
 
       {showCart && <Cart />}
