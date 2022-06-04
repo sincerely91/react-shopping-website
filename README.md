@@ -1,3 +1,15 @@
+<div align="center">
+<img width="100px" src="./public/cart.png" />
+
+  <h2>React & Next JS Full Stack Shopping Application With Stripe</h2>
+
+<a href=""><strong>➥ Live Demo</strong></a>
+<br />
+
+</div>
+
+<br />
+
 Testing
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
