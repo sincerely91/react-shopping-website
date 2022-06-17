@@ -3,7 +3,7 @@
 
   <h2>React & Next JS Full Stack Shopping Application With Stripe</h2>
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://shopping-app-ke.vercel.app/"><strong>➥ Live Demo</strong></a>
 <br />
 
 </div>
