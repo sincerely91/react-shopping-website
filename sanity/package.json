@@ -1,11 +1,11 @@
 {
-  "name": "ecommerce",
+  "name": "shopping-website",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "King'ori Anderson <kingorianderson@gmail.com>",
-  "license": "UNLICENSED",
+  "author": "blockchaindev91",
+  "license": "MIT",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build"
