@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+package-lock.json
+yarn.lock
+
+/sanity/package-lock.json
+/sanity/yarn.lock
